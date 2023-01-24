@@ -1,0 +1,9 @@
+
+(.devops) ubuntu@ip-172-31-11-63:~/DevOps_Microservices/project-ml-microservice-kubernetes$ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "devop4" already exists
+NAME     READY   STATUS    RESTARTS   AGE
+devop4   1/1     Running   0          81s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
